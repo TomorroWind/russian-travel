@@ -4,22 +4,26 @@
 
 ## Реализованные секции в проекте
 
-* Header
-* Lead
-* Intro
-* Photo grid
-* Places
-* Cover
-* Footer
+- Header
+- Lead
+- Intro
+- Photo grid
+- Places
+- Cover
+- Footer
 
 ## Используемые методы для обеспечения адаптивности
 
-* Относительные единицы измерения: проценты, vw, vh и т.д.
-* Flex контейнеры
-* Grid контейнеры
-* Медиа-запросы
+- Относительные единицы измерения: проценты, vw, vh и т.д.
+- Flex контейнеры
+- Grid контейнеры
+- Медиа-запросы
 
 ## Основные технологии
 
-* HTML
-* CSS
+- HTML
+- CSS
+
+## Адрес опубликованной работы
+
+https://tomorrowind.github.io/russian-travel/
