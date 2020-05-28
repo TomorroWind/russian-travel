@@ -1,0 +1,9 @@
+.page__cover {
+  margin: 0 auto 92px auto;
+}
+
+@media (max-width: 320px) {
+  .page__cover {
+    margin-bottom: 64px;
+  }
+}

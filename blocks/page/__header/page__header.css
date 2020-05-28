@@ -1,0 +1,10 @@
+.page__header {
+  width: 94%;
+  margin: 0 auto 48px auto;
+}
+
+@media (min-width: 1280px) {
+  .page__header {
+    margin-bottom: 56px;
+  }
+}

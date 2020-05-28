@@ -1,0 +1,10 @@
+.cover__background {
+  object-fit: cover;
+  object-position: center;
+  background-image: url(../../../images/cover-trains.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  padding-bottom: 62.5%;
+  z-index: 1;
+}

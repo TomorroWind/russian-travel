@@ -1,0 +1,29 @@
+@import url(./__header/page__header.css);
+@import url(./__lead/page__lead.css);
+@import url(./__intro/page__intro.css);
+@import url(./__photo-grid/page__photo-grid.css);
+@import url(./__places/page__places.css);
+@import url(./__cover/page__cover.css);
+@import url(./__footer/page__footer.css);
+
+.page {
+  background-color: #2a2c2f;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  color: #fff;
+  padding: 28px 0 48px 0;
+
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+
+  text-rendering: optimizeLegibility;
+}
+
+@media (max-width: 320px) {
+  .page {
+    padding: 16px 0 24px 0;
+  }
+}

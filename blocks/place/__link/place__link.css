@@ -1,0 +1,15 @@
+.place__link {
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 1.22;
+  text-decoration-line: underline;
+  color: #fff;
+  margin: 0;
+}
+
+.place__link:hover {
+  opacity: 0.8;
+  transition: opacity ease-out 0.4s;
+}
