@@ -12,5 +12,6 @@
   .footer__menu {
     flex-flow: column nowrap;
     margin-bottom: 48px;
+    /*не понял что надо уменьшить. В макете между последней ссылкой и копирайтом 48px*/
   }
 }

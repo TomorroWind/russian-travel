@@ -7,10 +7,6 @@
   text-align: center;
 }
 
-.cover__subtitle br {
-  display: none;
-}
-
 @media (max-width: 768px) {
   .cover__subtitle {
     font-size: calc(0.89vw + 11px);
@@ -22,9 +18,5 @@
     min-width: 288px;
     font-size: 14px;
     line-height: 1.14;
-  }
-
-  .cover__subtitle br {
-    display: inline;
   }
 }

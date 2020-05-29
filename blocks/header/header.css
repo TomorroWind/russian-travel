@@ -6,7 +6,7 @@
 
 .header {
   min-width: 280px;
-  max-width: 928px;
+  max-width: 1184px;
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-between;
